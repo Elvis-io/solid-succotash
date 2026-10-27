@@ -1,0 +1,10 @@
+title: Curtain Wall Sheets
+tooltip: >-
+  Creates exactly one tightly cropped and permanently isolated front elevation
+  for every curtain-wall Wall instance. The command creates or reuses a custom
+  Section view template, names views by curtain wall type, adds curtain-grid and
+  overall dimensions where valid references are available, and optimizes
+  viewport placement for measured A0-A4 architectural sheets with continuation
+  sheets when required. Rear, interior, side, and duplicate-direction views are
+  not generated.
+author: OpenAI for Elvis Ekwegbo
