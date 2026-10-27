@@ -1,0 +1,13 @@
+{
+  "source_sha256": "6b1df9602a2a510deb516c30cbdebbf35bb59d31ca5101a5940725dee669ea31",
+  "parts": [
+    {"file": "01_command.py", "bytes": 15410, "start_line": 1, "end_line": 517},
+    {"file": "02_command.py", "bytes": 14676, "start_line": 518, "end_line": 891},
+    {"file": "03_command.py", "bytes": 15457, "start_line": 892, "end_line": 1362},
+    {"file": "04_command.py", "bytes": 10823, "start_line": 1363, "end_line": 1730},
+    {"file": "05_command.py", "bytes": 14460, "start_line": 1731, "end_line": 2192},
+    {"file": "06_command.py", "bytes": 10444, "start_line": 2193, "end_line": 2557},
+    {"file": "07_command.py", "bytes": 19841, "start_line": 2558, "end_line": 3081},
+    {"file": "08_command.py", "bytes": 10802, "start_line": 3082, "end_line": 3402}
+  ]
+}
